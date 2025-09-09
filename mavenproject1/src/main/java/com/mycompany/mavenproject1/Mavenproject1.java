@@ -12,6 +12,7 @@ public class Mavenproject1 {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println("Hello World! Muhiya");
+        System.out.println("Hello World! Muhiya 1");
     }
 }
+//comment02
